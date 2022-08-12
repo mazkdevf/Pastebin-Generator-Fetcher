@@ -1,12 +1,12 @@
 {
-  "name": "pastebingen",
+  "name": "pastebin-generator-fetcher",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate random length of 8 string and make request to pastebin and see if its existing.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "mazkdevf",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
